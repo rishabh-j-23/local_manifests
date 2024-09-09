@@ -2,7 +2,7 @@
 <manifest>
     <remote name="github" fetch="https://github.com/" />
 
-    <project name="PixelOS-Devices/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" />
-    <project name="PixelOS-Devices/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" />
-    <project name="PixelOS-Devices/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" />
+    <project name="PixelOS-Devices/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="fourteen"/>
+    <project name="PixelOS-Devices/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="fourteen"/>
+    <project name="PixelOS-Devices/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="fourteen"/>
 </manifest>
