@@ -8,8 +8,8 @@
     <project name="PixelOS-Devices/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="fourteen"/> -->
 
     
-    <project name="/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="ryxke" revision="fourteen"/>
-    <project name="/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="ryxke" revision="fourteen"/>
-    <project name="/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="ryxke" revision="fourteen"/>
+    <project name="device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="ryxke" revision="fourteen"/>
+    <project name="kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="ryxke" revision="fourteen"/>
+    <project name="vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="ryxke" revision="fourteen"/>
 
 </manifest>
