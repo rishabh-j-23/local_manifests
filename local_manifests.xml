@@ -9,7 +9,7 @@
 
     
     <project name="device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="rish" revision="fourteen"/>
-    <project name="kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="rish" revision="fourteen"/>
+    <project name="kutemeikito/android_kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="fourteen/main"/>
     <project name="vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="rish" revision="fourteen"/>
 
 </manifest>
